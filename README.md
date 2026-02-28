@@ -14,19 +14,6 @@
             </strong></h1>
             <p class="apresentacao__conteudo__texto">Olá! Sou Felipe Padilha, formado em Análise e Desenvolvimento de Sistemas, estou aprendendo a desenvolver Front-end com especialidade em <strong>React, HTML e CSS.</strong> Espero que vocês curtam este meu novo projeto que estou realizando com a escola Alura. Vamos conversar?</p>
             <div class="apresentacao__links">
-                <h2 class="apresentacao__links__subtitulo">Acesse minhas redes:</h2>
-                <a class="apresentacao__links__link" href="https://instagram.com/padnogueira" target="_blank">
-                    <img src="assets/instagram.png">
-                    Instagram
-                </a>
-                <a class="apresentacao__links__link" href="https://www.linkedin.com/in/felipe-padilha-nogueira-393983207" target="_blank">
-                    <img src="assets/linkedin.png">
-                    Linkedin
-                </a>
-                <a class="apresentacao__links__link" href="https://github.com/padnogueira" target="_blank">
-                    <img src="assets/github.png">
-                    GitHub
-                </a>
             </div>
         </section>
         <img src=".github/preview.jpg" alt="Foto Felipe Padilha no dia do casamento">
