@@ -3,17 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">git
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href=".//styles/style.css">
 </head>
 <body>
-    <header class="cabecalho">
-        <nav class="cabecalho__menu">
-            <a class="cabecalho__menu__link" href="index.html">Home</a>
-            <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
-            <a class="cabecalho__menu__link" href="curriculo.html">Currículo</a>
-        </nav>
-    </header>
     <main class="apresentacao">
         <section class="apresentacao__conteudo">
             <h1 class="apresentacao__conteudo__titulo">Eleve seu negócio digital a outro nível<strong 
@@ -36,7 +29,7 @@
                 </a>
             </div>
         </section>
-        <img src="./assets/Imagem.png" alt="Foto Felipe Padilha no dia do casamento">
+        <img src=".github/preview.jpg" alt="Foto Felipe Padilha no dia do casamento">
     </main>
     <footer class="rodape">
         <p>Desenvolvido por mim ♥</p>
