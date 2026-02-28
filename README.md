@@ -19,7 +19,6 @@
         <img src=".github/preview.jpg" alt="Foto Felipe Padilha no dia do casamento">
     </main>
     <footer class="rodape">
-        <p>Desenvolvido por mim ♥</p>
     </footer>
 </body>
 
